@@ -1,14 +1,25 @@
 [
   {"playerId":1,"name":"Viraj Kohli","country":"India","image":"","role":"Batsman","battingType":"Right-Hand-Bat","bowlingType":"Right-Arm","price":1500000,"image": "https://www.livemint.com/lm-img/img/2025/03/28/original/RCB_1743129770003.jpg"},
-  {"playerId":2,"name":"Darrell Steward","country":"India","image":"","role":"All-Rounder","battingType":"Left-Hand-Bat","bowlingType":"Left-Arm","price":1200000},
-  {"playerId":3,"name":"Shane Watson","country":"Australia","image":"","role":"All-Rounder","battingType":"Right-Hand-Bat","bowlingType":"Right-Arm","price":1300000},
+
+  {"playerId":2,"name":"Darrell Steward","country":"India","image":"","role":"All-Rounder","battingType":"Left-Hand-Bat","bowlingType":"Left-Arm","price":1200000, "image":"https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/3929831.png&w=350&h=254"},
+
+  {"playerId":3,"name":"Shane Watson","country":"Australia","image":"","role":"All-Rounder","battingType":"Right-Hand-Bat","bowlingType":"Right-Arm","price":1300000,"image":"https://bsmedia.business-standard.com/_media/bs/img/article/2018-04/21/full/1524305103-3372.jpg?im=FeatureCrop,size=(826,465)"},
+
   {"playerId":4,"name":"Kane Williamson","country":"New Zealand","image":"","role":"Batsman","battingType":"Right-Hand-Bat","bowlingType":"Off-Spin","price":1400000,"image":"https://ichef.bbci.co.uk/ace/standard/1536/cpsprodpb/5363/live/0f07aad0-67ce-11f0-8dbd-f3d32ebd3327.jpg"},
-  {"playerId":5,"name":"AB de Villiers","country":"South Africa","image":"","role":"Batsman","battingType":"Right-Hand-Bat","bowlingType":"Right-Arm","price":1600000},
-  {"playerId":6,"name":"Brett Lee","country":"Australia","image":"","role":"Bowler","battingType":"Right-Hand-Bat","bowlingType":"Fast","price":1100000},
-  {"playerId":7,"name":"Jasprit Bumrah","country":"India","image":"","role":"Bowler","battingType":"Right-Hand-Bat","bowlingType":"Fast","price":2000000},
-  {"playerId":8,"name":"Ben Stokes","country":"England","image":"","role":"All-Rounder","battingType":"Right-Hand-Bat","bowlingType":"Right-Arm","price":1800000},
-  {"playerId":9,"name":"Rashid Khan","country":"Afghanistan","image":"","role":"Bowler","battingType":"Right-Hand-Bat","bowlingType":"Leg-Spin","price":1250000},
-  {"playerId":10,"name":"Trent Boult","country":"New Zealand","image":"","role":"Bowler","battingType":"Left-Hand-Bat","bowlingType":"Left-Arm","price":1150000},
-  {"playerId":11,"name":"Steve Smith","country":"Australia","image":"","role":"Batsman","battingType":"Right-Hand-Bat","bowlingType":"Off-Spin","price":1500000},
-  {"playerId":12,"name":"Jos Buttler","country":"England","image":"","role":"Wicket-Keeper","battingType":"Right-Hand-Bat","bowlingType":"Right-Arm","price":1350000}
+
+  {"playerId":5,"name":"AB de Villiers","country":"South Africa","image":"","role":"Batsman","battingType":"Right-Hand-Bat","bowlingType":"Right-Arm","price":1600000,"image":"https://c.ndtvimg.com/2025-08/tcrc7qcc_ab-de-villiers_625x300_02_August_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738"},
+
+  {"playerId":6,"name":"Brett Lee","country":"Australia","image":"","role":"Bowler","battingType":"Right-Hand-Bat","bowlingType":"Fast","price":1100000,"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4dAot6RGEo7VViCnx3ydcRILGHnZnvAF06w&s"},
+
+  {"playerId":7,"name":"Jasprit Bumrah","country":"India","image":"","role":"Bowler","battingType":"Right-Hand-Bat","bowlingType":"Fast","price":2000000,"image":"https://c.ndtvimg.com/2024-06/dlsrhcqo_jasprit-bumrah-afp_625x300_21_June_24.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=675"},
+
+  {"playerId":8,"name":"Ben Stokes","country":"England","image":"","role":"All-Rounder","battingType":"Right-Hand-Bat","bowlingType":"Right-Arm","price":1800000,"image":"https://img.ipl.com/upload/20241016/84522a0c15e2730e8137ef6162579936.png"},
+
+  {"playerId":9,"name":"Rashid Khan","country":"Afghanistan","image":"","role":"Bowler","battingType":"Right-Hand-Bat","bowlingType":"Leg-Spin","price":1250000,"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZcrzivmkZCxYgAPBJr0Dqb5I01PGJxgAxdA&s"},
+
+  {"playerId":10,"name":"Trent Boult","country":"New Zealand","image":"","role":"Bowler","battingType":"Left-Hand-Bat","bowlingType":"Left-Arm","price":1150000,"image":"https://www.geosuper.tv/assets/uploads/updates/2023-05-09/24381_1001257_updates.jpg"},
+
+  {"playerId":11,"name":"Steve Smith","country":"Australia","image":"","role":"Batsman","battingType":"Right-Hand-Bat","bowlingType":"Off-Spin","price":1500000,"image":"https://c.files.bbci.co.uk/26b9/live/c7ffff60-e542-11ef-b52b-2f7aceb40199.jpg"},
+
+  {"playerId":12,"name":"Jos Buttler","country":"England","image":"","role":"Wicket-Keeper","battingType":"Right-Hand-Bat","bowlingType":"Right-Arm","price":1350000,"image":"https://c.ndtvimg.com/2022-11/eqod4ll8_jos-buttler-vs-india-afp_625x300_10_November_22.jpg?im=FeatureCrop,algorithm=dnn,width=806,height=605"}
 ]
