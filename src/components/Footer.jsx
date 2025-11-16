@@ -20,6 +20,10 @@ const Footer = () => {
         <div>
           <h4 className="font-semibold">Subscribe</h4>
           <p className="text-sm text-gray-300 mt-2">Subscribe to our newsletter for the latest updates.</p>
+          <div className="mt-4 flex justify-center gap-2">
+            <input placeholder="Enter your email" className="px-4 py-2 rounded-l-lg border" />
+            <button className="px-4 py-2 rounded-r-lg bg-gradient-to-r from-pink-400 to-yellow-300">Subscribe</button>
+          </div>
         </div>
       </div>
       <div className="text-center py-4 bg-gray-800">©2024 Your Company All Rights Reserved.</div>
