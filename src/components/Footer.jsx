@@ -3,6 +3,10 @@ import React from "react";
 const Footer = () => {
   return (
     <footer className="bg-gray-900 text-white mt-10">
+        <div className="flex justify-center items-center my-4">
+            <img src="/public/logo-footer.png" alt="" className="h-32 w-auto" />
+        </div>
+        
       <div className="max-w-6xl mx-auto px-4 py-12 grid grid-cols-1 md:grid-cols-3 gap-6">
         <div>
           <h4 className="font-semibold">About Us</h4>
