@@ -1,8 +1,8 @@
 [
-  {"playerId":1,"name":"Viraj Kohli","country":"India","image":"","role":"Batsman","battingType":"Right-Hand-Bat","bowlingType":"Right-Arm","price":1500000},
+  {"playerId":1,"name":"Viraj Kohli","country":"India","image":"","role":"Batsman","battingType":"Right-Hand-Bat","bowlingType":"Right-Arm","price":1500000,"image": "https://www.livemint.com/lm-img/img/2025/03/28/original/RCB_1743129770003.jpg"},
   {"playerId":2,"name":"Darrell Steward","country":"India","image":"","role":"All-Rounder","battingType":"Left-Hand-Bat","bowlingType":"Left-Arm","price":1200000},
   {"playerId":3,"name":"Shane Watson","country":"Australia","image":"","role":"All-Rounder","battingType":"Right-Hand-Bat","bowlingType":"Right-Arm","price":1300000},
-  {"playerId":4,"name":"Kane Williamson","country":"New Zealand","image":"","role":"Batsman","battingType":"Right-Hand-Bat","bowlingType":"Off-Spin","price":1400000},
+  {"playerId":4,"name":"Kane Williamson","country":"New Zealand","image":"","role":"Batsman","battingType":"Right-Hand-Bat","bowlingType":"Off-Spin","price":1400000,"image":"https://ichef.bbci.co.uk/ace/standard/1536/cpsprodpb/5363/live/0f07aad0-67ce-11f0-8dbd-f3d32ebd3327.jpg"},
   {"playerId":5,"name":"AB de Villiers","country":"South Africa","image":"","role":"Batsman","battingType":"Right-Hand-Bat","bowlingType":"Right-Arm","price":1600000},
   {"playerId":6,"name":"Brett Lee","country":"Australia","image":"","role":"Bowler","battingType":"Right-Hand-Bat","bowlingType":"Fast","price":1100000},
   {"playerId":7,"name":"Jasprit Bumrah","country":"India","image":"","role":"Bowler","battingType":"Right-Hand-Bat","bowlingType":"Fast","price":2000000},
