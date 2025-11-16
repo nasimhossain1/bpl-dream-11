@@ -1,0 +1,14 @@
+[
+  {"playerId":1,"name":"Viraj Kohli","country":"India","image":"","role":"Batsman","battingType":"Right-Hand-Bat","bowlingType":"Right-Arm","price":1500000},
+  {"playerId":2,"name":"Darrell Steward","country":"India","image":"","role":"All-Rounder","battingType":"Left-Hand-Bat","bowlingType":"Left-Arm","price":1200000},
+  {"playerId":3,"name":"Shane Watson","country":"Australia","image":"","role":"All-Rounder","battingType":"Right-Hand-Bat","bowlingType":"Right-Arm","price":1300000},
+  {"playerId":4,"name":"Kane Williamson","country":"New Zealand","image":"","role":"Batsman","battingType":"Right-Hand-Bat","bowlingType":"Off-Spin","price":1400000},
+  {"playerId":5,"name":"AB de Villiers","country":"South Africa","image":"","role":"Batsman","battingType":"Right-Hand-Bat","bowlingType":"Right-Arm","price":1600000},
+  {"playerId":6,"name":"Brett Lee","country":"Australia","image":"","role":"Bowler","battingType":"Right-Hand-Bat","bowlingType":"Fast","price":1100000},
+  {"playerId":7,"name":"Jasprit Bumrah","country":"India","image":"","role":"Bowler","battingType":"Right-Hand-Bat","bowlingType":"Fast","price":2000000},
+  {"playerId":8,"name":"Ben Stokes","country":"England","image":"","role":"All-Rounder","battingType":"Right-Hand-Bat","bowlingType":"Right-Arm","price":1800000},
+  {"playerId":9,"name":"Rashid Khan","country":"Afghanistan","image":"","role":"Bowler","battingType":"Right-Hand-Bat","bowlingType":"Leg-Spin","price":1250000},
+  {"playerId":10,"name":"Trent Boult","country":"New Zealand","image":"","role":"Bowler","battingType":"Left-Hand-Bat","bowlingType":"Left-Arm","price":1150000},
+  {"playerId":11,"name":"Steve Smith","country":"Australia","image":"","role":"Batsman","battingType":"Right-Hand-Bat","bowlingType":"Off-Spin","price":1500000},
+  {"playerId":12,"name":"Jos Buttler","country":"England","image":"","role":"Wicket-Keeper","battingType":"Right-Hand-Bat","bowlingType":"Right-Arm","price":1350000}
+]
